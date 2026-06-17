@@ -1,3 +1,8 @@
+## Note
+
+This is a concept project created by Transform Digital to demonstrate modern gym website design and development capabilities.
+
+
 # Transform Fitness Demo
 
 A premium gym website demo designed and developed by Transform Digital.
