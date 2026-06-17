@@ -1,34 +1,20 @@
-# Transform Fitness Demo
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-A premium gym website demo designed and developed by Transform Digital.
+# Run and deploy your AI Studio app
 
-## Overview
+This contains everything you need to run your app locally.
 
-Transform Fitness Demo showcases a modern fitness website focused on member acquisition, trainer promotion, and membership conversion.
+View your app in AI Studio: https://ai.studio/apps/27a57991-9f78-4513-bafa-5780fe9cb353
 
-## Features
+## Run Locally
 
-- Modern Hero Section
-- Membership Plans
-- Trainer Profiles
-- Gallery Showcase
-- Testimonials Section
-- Free Trial Booking
-- Contact & Location Section
-- Mobile Responsive Design
+**Prerequisites:**  Node.js
 
-## Live Demo
 
-Coming Soon
-
-## Built With
-
-- React
-- TypeScript
-- Tailwind CSS
-
-## Created By
-
-Transform Digital
-
-Transforming Businesses Into Digital Leaders
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
