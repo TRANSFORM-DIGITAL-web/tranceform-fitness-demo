@@ -20,6 +20,20 @@ Transform Fitness Demo showcases a modern fitness website focused on member acqu
 ## Live Demo
 
 https://tranceform-fitness-gym-demo-9z7kkxaya.vercel.app/
+
+## Homepage
+
+![Homepage](screenshots/homepage.png)
+
+## Pricing Section
+
+![Pricing](screenshots/pricing.png)
+
+## Mobile View
+
+![Mobile View](screenshots/mobile-view.png)
+
+
 ## Built With
 
 - React
