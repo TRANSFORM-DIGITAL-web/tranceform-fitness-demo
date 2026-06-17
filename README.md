@@ -23,16 +23,7 @@ https://tranceform-fitness-gym-demo-9z7kkxaya.vercel.app/
 
 ## Homepage
 
-![Homepage]((https://github.com/TRANSFORM-DIGITAL-web/tranceform-fitness-demo/blob/main/Screenshot%202026-06-18%20003134.png))
-
-## Pricing Section
-
-![Pricing](screenshots/pricing.png)
-
-## Mobile View
-
-![Mobile View](screenshots/mobile-view.png)
-
+![Homepage](screenshots/homepage.png)
 
 ## Built With
 
