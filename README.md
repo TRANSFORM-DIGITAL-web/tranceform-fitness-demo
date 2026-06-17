@@ -25,6 +25,10 @@ https://tranceform-fitness-gym-demo-9z7kkxaya.vercel.app/
 
 ![Homepage](screenshots/homepage.png)
 
+## Pricing Section
+
+![Pricing](pricing.png)
+
 ## Built With
 
 - React
